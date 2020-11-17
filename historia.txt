@@ -5,3 +5,5 @@ Orlando Gutiérrez tiene 35 años y nacio en Chile
 Hoy hablaremos de su historia.
 
 agrego una nueva linea para trabajar con git rm y git reset
+
+hola
